@@ -1,5 +1,5 @@
 # Projeto-Academico---registro-de-treinos-backup
-Reupload de um projeto académico realizado no meu primeiro semestre em Ciências da computação
+Reupload de um projeto acadêmico realizado no meu primeiro semestre em Ciências da computação
 
 REGISTRO DE TREINOS
 
